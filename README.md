@@ -7,3 +7,8 @@ A simple Node login example
 ```
 git clone https://github.com/nuntius-rex/node-standard-login.git
 ```
+
+## Run
+```
+npm start
+```
