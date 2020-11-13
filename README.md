@@ -10,5 +10,6 @@ git clone https://github.com/nuntius-rex/node-standard-login.git
 
 ## Run
 ```
+npm install
 npm start
 ```
