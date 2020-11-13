@@ -16,6 +16,6 @@ npm start
 
 ## Other Examples
 
-<p>If you would like to see an example of a JWT login with Node, checkout
-this version: <a href="https://github.com/nuntius-rex/node-jwt-login">https://github.com/nuntius-rex/node-jwt-login</a>.
+<p>If you would like to see an example of a JWT login with Node, checkout this version:<br>
+<a href="https://github.com/nuntius-rex/node-jwt-login">https://github.com/nuntius-rex/node-jwt-login</a>.
 </p>
